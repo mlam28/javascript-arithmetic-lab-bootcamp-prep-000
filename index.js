@@ -18,3 +18,7 @@ function inc(n) {
   var number = n+1
   return number
 }
+
+function dec(n){
+  return n-1
+}
